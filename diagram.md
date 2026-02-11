@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
 
     subgraph WIN["Windows 11 (Host)"]
@@ -19,3 +20,4 @@ flowchart TB
 
     ALMA --> DOCKERCLI --> DD
     ALMA --> VSCODE --> VS
+```
