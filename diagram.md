@@ -1,4 +1,5 @@
 ```mermaid
+info
 flowchart TB
 
     subgraph WIN["Windows 11 (Host)"]
