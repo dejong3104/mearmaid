@@ -11,7 +11,7 @@ flowchart TB
 
     subgraph ALMA["AlmaLinux 10 (WSL2)"]
         SHELL["Linux Native Environment\n- bash / zsh\n- dnf package manager"]
-        VSCODE["VS Code Server\n/usr/bin/code available\n\"code .\" launches VS Code"]
+        VSCODE["VS Code Server\n/usr/bin/code available\n\'code .\' launches VS Code"]
         DOCKERCLI["Docker CLI\ncontrols Docker Desktop"]
     end
 
